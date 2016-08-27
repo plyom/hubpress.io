@@ -1,0 +1,18 @@
+# Agile methods and where to find them
+
+Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
+
+## Definitions and Clarifications
+
+Before anything it is important to note that Agile Software Development includes several development methods that share a set of principles so there is no "right way" of being Agile.
+
+So, we need to focus on this set of princiles stuff to understand what exactly means to be agile.
+
+Lets look at the agile manifesto:
+
+> "We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+> 
+> - **Individuals and interactions** over processes and tools
+> - **Working software** over comprehensive documentation
+> - **Customer collaboration** over contract negotiation
+> - **Responding to change over** following a plan

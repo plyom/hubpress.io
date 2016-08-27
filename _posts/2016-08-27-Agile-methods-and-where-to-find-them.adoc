@@ -34,11 +34,11 @@ This means we have to communicate and interact with other **people**. Yeah, peop
 
 I think it is better to talk about what it is not being agile:
 
-#1. You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done.
+**Situation #1.** You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done.
 
-#2. The Scrum Master of your team calls for the daily meeting and you basically present yourself at it feeling like how this is a waste of your precious time and how this will compromise the delivering of your work (yeah I know!), don't really listen to the others talking and talk about a report of the all tasks that you finished the day before.
+**Situation #2.** The Scrum Master of your team calls for the daily meeting and you basically present yourself at it feeling like how this is a waste of your precious time and how this will compromise the delivering of your work (yeah I know!), don't really listen to the others talking and talk about a report of the all tasks that you finished the day before.
 
-#3. At the Sprint Planning meeting you notice a task that can be much bigger than the what the team  and keep quiet so you don't look incompetent in front of the Product Owner.
+**Situation #3.** At the Sprint Planning meeting you notice a task that can be much bigger than the what the team  and keep quiet so you don't look incompetent in front of the Product Owner.
 
 Looks familiar?
 

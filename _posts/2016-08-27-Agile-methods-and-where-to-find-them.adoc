@@ -2,7 +2,7 @@
 
 Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
 
-## Definitions and Clarifications
+## Definitions, definitions...
 
 Before anything it is important to note that Agile Software Development includes several development methods that share a set of principles so there is no "right way" of being Agile.
 

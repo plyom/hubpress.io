@@ -8,7 +8,7 @@ Before anything it is important to note that Agile Software Development includes
 
 So, we need to focus on this set of princiles stuff to understand what exactly means to be agile.
 
-Lets look at the agile manifesto:
+Lets look at the agile manifesto (yeah, again):
 
 > "We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 > 
@@ -16,3 +16,37 @@ Lets look at the agile manifesto:
 > - **Working software** over comprehensive documentation
 > - **Customer collaboration** over contract negotiation
 > - **Responding to change over** following a plan
+
+> That is, while there is value in the items on the right, we value the items on the left more."
+> - © 2001, the Agile Manifesto authors. This declaration may be freely copied in any form, but only in its entirety through this notice.
+
+That's so cool right? We can now trash everything that we hate about project management: processes, documentation, contracts and plans.
+
+Yeah, we can look at it this way, and it is not entirelly wrong.
+
+But we have to remind us that we still have the left part of the list to be reaaaly good at, otherwise we would not really being Agile, we would just not doing boring stuff.
+
+So, let's look at them with a little more care.
+
+### Individuals and iteractions
+
+This means we have to communicate and interact with other **people**. Yeah, people.
+
+I think it is better to talk about what it is not being agile:
+
+#1. You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done.
+
+#2. The Scrum Master of your team calls for the daily meeting and you basically present yourself at it feeling like how this is a waste of your precious time and how this will compromise the delivering of your work (yeah I know!), don't really listen to the others talking and talk about a report of the all tasks that you finished the day before.
+
+#3. At the Sprint Planning meeting you notice a task that can be much bigger than the what the team  and keep quiet so you don't look incompetent in front of the Product Owner.
+
+Looks familiar?
+
+So, surprise! **You are not being Agile!**
+
+You are you are not clarifying and discussing the task at hand, you are not questioning if this is the best to of doing it, you are not talking to anyone about the product you are developing, you are not talking about your worries of implementation and you are not communicating.
+
+As hard as it looks like, we basically have to talk about what we're doing, what we're building and what we're thinking.
+
+Does it still looks that cool to you?
+

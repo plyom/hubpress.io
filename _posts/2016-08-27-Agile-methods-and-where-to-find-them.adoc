@@ -50,3 +50,11 @@ As hard as it looks like, we basically have to talk about what we're doing, what
 
 Does it still looks that cool to you?
 
+### Working software
+
+This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs" but as a business. Do the software is really helping his users and it should?
+
+Let's go to the situations:
+
+**Situation #1** All
+

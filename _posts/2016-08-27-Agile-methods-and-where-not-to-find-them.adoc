@@ -16,7 +16,7 @@ Lets look at the agile manifesto (yeah, again):
 > - **Working software** over comprehensive documentation
 > - **Customer collaboration** over contract negotiation
 > - **Responding to change** over following a plan
-
+> 
 > That is, while there is value in the items on the right, we value the items on the left more."
 > - © 2001, the Agile Manifesto authors. This declaration may be freely copied in any form, but only in its entirety through this notice.
 

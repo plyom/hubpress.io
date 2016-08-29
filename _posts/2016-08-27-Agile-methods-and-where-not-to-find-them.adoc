@@ -1,4 +1,4 @@
-# Agile methods and where to find them
+# Agile methods and where (not) to find them
 
 Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
 
@@ -15,7 +15,7 @@ Lets look at the agile manifesto (yeah, again):
 > - **Individuals and interactions** over processes and tools
 > - **Working software** over comprehensive documentation
 > - **Customer collaboration** over contract negotiation
-> - **Responding to change over** following a plan
+> - **Responding to change** over following a plan
 
 > That is, while there is value in the items on the right, we value the items on the left more."
 > - © 2001, the Agile Manifesto authors. This declaration may be freely copied in any form, but only in its entirety through this notice.
@@ -24,7 +24,7 @@ That's so cool right? We can now trash everything that we hate about project man
 
 Yeah, we can look at it this way, and it is not entirelly wrong.
 
-But we have to remind us that we still have the left part of the list to be reaaaly good at, otherwise we would not really being Agile, we would just not doing boring stuff.
+But we have to remind us that we still have the left part of the list to be reaaaly good at, otherwise we would not really being Agile, we would be just not doing boring stuff.
 
 So, let's look at them with a little more care.
 
@@ -34,27 +34,52 @@ This means we have to communicate and interact with other **people**. Yeah, peop
 
 I think it is better to talk about what it is not being agile:
 
-**Situation #1.** You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done.
+**Situation #1.** You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done. So smooth...
 
-**Situation #2.** The Scrum Master of your team calls for the daily meeting and you basically present yourself at it feeling like how this is a waste of your precious time and how this will compromise the delivering of your work (yeah I know!), don't really listen to the others talking and talk about a report of the all tasks that you finished the day before.
+**Situation #2.** The Scrum Master of your team calls for the daily meeting and you basically present yourself at it feeling like how this is a waste of your precious time and how this will compromise the delivering of your work (yeah I know!), don't really listen to the others talking and talk about a report of the all tasks that you finished the day before and how awesome you were. Then you just rush back at your computer and you successfully remembered whare you stopped.
 
-**Situation #3.** At the Sprint Planning meeting you notice a task that can be much bigger than the what the team  and keep quiet so you don't look incompetent in front of the Product Owner.
+**Situation #3.** At the Sprint Planning meeting you notice a task that can be much bigger than the what the team and keep quiet so you don't look incompetent in front of the Product Owner. Now you're safe.
+
+**Situation #4.** You are the P.O and the developer starts talking about his problems with the automatic testing and how this cannot be avoided, so you take your Smartphone to look at the news, after all you are not concerned on developer problems, your only concern is when it will be ready.
 
 Looks familiar?
 
 So, surprise! **You are not being Agile!**
 
-You are you are not clarifying and discussing the task at hand, you are not questioning if this is the best to of doing it, you are not talking to anyone about the product you are developing, you are not talking about your worries of implementation and you are not communicating.
+Everyone in an Agile Team has communication as a priority. 
+That means that everyone has to **talk about anything that can affect the project** at any level and do it clearly but most of all, if you at the at the listening side of any conversation - be it im a meeting or in a one-to-one conversation - **it is your obligation to listen very carefully** to everything that is being said.
 
-As hard as it looks like, we basically have to talk about what we're doing, what we're building and what we're thinking.
+As hard as it looks like, we basically have to talk about what we're doing, what we're building and what we're thinking and we must listen when anyone talks too.
 
-Does it still looks that cool to you?
+Does it still looks that easy to you?
 
 ### Working software
 
-This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs" but as a business. Do the software is really helping his users and it should?
+This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs" but as a business. Do the software is really helping his users as it should?
 
 Let's go to the situations:
 
-**Situation #1** All
+**Situation #1.** You completed all your tasks in the Sprint a little earlier than expected and everything works fine at when you merged to the master branch. You noticed that are still a few tasks being finished so you go home early to preserve energy fot the Sprint Review next day. When you arrive, you see that one of the features that you implemented turned up broken by one of the latest commits and there will be no time to fix it before the meeting. You look angry at the team and wonder how they would survive without you. The software broke at the Sprint Review, but it wasn't your fault so you internally blame the commit author who did it.
+
+**Situation #2.** During the the Sprint Planning you look at the Spring Backlog and the Increment look so small that you feel that you can push the team a litte harder, you don't really remember all the tech talk but just feels like they are being overcareful. So you convince the team to add a few more tasks to the Sprint because of the tight budget hoping to see thenk working harder, this way you could show the investors how fast you were. The sprint fails because of a bug that prevents the user to sign in. You look at them with reproval eyes and hope this makes the work harder.
+
+**Situation #3.** The Sprint ended up too big and the team is overworked with the features, you call the team and suggests to remove automatic testing from this last tasks so we can deliver on time. The team agrees and the sprint was a success, but on the next Sprint you couldn't convince everyone that the team should take less tasks this time. The team ended up developing lesser tests and, after 3 Sprints, the code starts brake at almost everywhere, so now you advise for a "Unit Testing Sprint", the problem is that the code created with no test has to be refactored and it should take at least 2 Sprints and the budget can't handle it. The team will have to do it in 1 Sprint only, making you call an internal "I told you!" and think on how awesome it would be if they listened to you for a change.
+
+Guest what? **You are not being Agile!**
+
+Everyone has to be concerned on having a stable software after every increment. Your good individual work means nothing if the product increment does not run. Fitting more features means nothing if the team has to neglect testing hoping the bugs doesn't get found by at the Sprint Review.
+
+Being agile is about making small increments that gradually creates a bigger product but the quality of these increments must not be negotiated at any moment.
+
+This is looking like a mexican novel already, right?
+
+### Customer collaboration
+
+I can almost feel the big "sight" coming. Yeah, you have to collaborate with the customer, even if he understands absolutelly nothing of techology and coding.
+
+I will skip the situations on this one, because I absolutelly KNOW you are already thinking about tons of them.
+
+The thing is, the Team (and by Team I mean every human on the Team), must have close contact to the end customer (a human too!). Everyone must understand the why's of the product you are building and for who (humans again) you're building and finally who will actually use (surprise, more humans) what you're building. There is no espaping that, no matter how we try or how we would like it. If you want to be a sucessful team member, you must collaborate with the customer at every level. So you, as a human must collaborate with other humans.
+
+### Responding to change
 

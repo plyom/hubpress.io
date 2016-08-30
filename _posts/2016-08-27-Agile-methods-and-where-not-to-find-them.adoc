@@ -1,6 +1,9 @@
 # Agile methods and where (not) to find them
 
 Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
+More than that, are we actually acting accordingdly to the Agile principles?
+
+In this article we will try to understand and reflect about some of our day-to-day situations and analyse if we're doing it the Agile Way.
 
 ## Definitions, definitions...
 
@@ -28,7 +31,7 @@ But we have to remind us that we still have the left part of the list to be reaa
 
 So, let's look at them with a little more care.
 
-### Individuals and iteractions
+## Individuals and iteractions
 
 This means we have to communicate and interact with other **people**. Yeah, people.
 
@@ -53,7 +56,7 @@ As hard as it looks like, we basically have to talk about what we're doing, what
 
 Does it still looks that easy to you?
 
-### Working software
+## Working software
 
 This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs" but as a business. Do the software is really helping his users as it should?
 
@@ -65,7 +68,7 @@ Let's go to the situations:
 
 **Situation #3.** The Sprint ended up too big and the team is overworked with the features, you call the team and suggests to remove automatic testing from this last tasks so we can deliver on time. The team agrees and the sprint was a success, but on the next Sprint you couldn't convince everyone that the team should take less tasks this time. The team ended up developing lesser tests and, after 3 Sprints, the code starts brake at almost everywhere, so now you advise for a "Unit Testing Sprint", the problem is that the code created with no test has to be refactored and it should take at least 2 Sprints and the budget can't handle it. The team will have to do it in 1 Sprint only, making you call an internal "I told you!" and think on how awesome it would be if they listened to you for a change.
 
-Guess what? **You are not being Agile!**
+Believe it or not... **You are not being Agile!**
 
 Everyone has to be concerned on having a stable software after every increment. Your good individual work means nothing if the product increment does not run. Fitting more features means nothing if the team has to neglect testing hoping the bugs doesn't get found by at the Sprint Review.
 
@@ -73,29 +76,40 @@ Being agile is about making small increments that gradually creates a bigger pro
 
 This is looking like a mexican novel already, right?
 
-### Customer collaboration
+## Customer collaboration
 
 I can almost feel the big "sight" coming. Yeah, you have to collaborate with the customer, even if he understands absolutelly nothing of techology and coding.
 
 I will just cite a few situations, but I absolutelly KNOW you are already thinking about tons of them:
 
-**Situation #1.** The customer was very specific on some features he believes as critical and won't sign a contract unless you add these features to the contract, but he likes the term Agile so he also wants you to use it in his project. You know this is not the best scenario but agrees with it and sign the contract.
+**Situation #1.** The customer was very specific on some features he believes as critical and won't sign a contract unless you add these features to the contract, but he likes the term Agile so he also wants you to use it in his project. You know that talking about features on the contract is not the best scenario but agrees with it and sign the contract with the intention of proving the customer how wrong he was. The project fails miserably.
 
-**Situation #1.** You developed a beautiful code, full of patterns and well named variables for a feature that the customer now wants off the product. You actually agrees with it because that feature is almost never used by the users. The problem is that you didn't plan for it be remove so, right now, it is ultmost difficult because one of the patterns that you used here is used elsewhere and it is too much coupled. So you come up with difficult terms about how this could compromise the product and convince him that this feature must stay as it is.
+**Situation #2.** The customer wants to implement a feature that is nowhere near the current best practice in UX for the product platform and have nothing to do with it's value propostition. You try to argue a little bit on how this can be complex and won't add value to the product but the customer seems irredutible. You give up knowing that the project will take at least a Sprint more without adding real value to the user, but since the money is coming from him, that's no big deal.
+
+Guess what? **You are not being Agile!**
+
+Customer collaboration doesn't mean to do everything the customer wants. It is about using your expertise to help on the improvement of his project. Sometimes it means to have harsh conversations with him and prove your point, remembering always that what you're doing is delivering real value to the user, not to inflate the ego of yourself or the customer.
 
 The thing is, the Team (and by Team I mean every human on the Team), must have close contact to the end customer (a human too!). Everyone must understand the why's of the product you are building and for who (humans again) you're building and finally who will actually use (surprise, more humans) what you're building. There is no espaping that, no matter how we try or how we would like it. If you want to be a sucessful team member, you must collaborate with the customer at every level. So you, as a human must collaborate with other humans.
 
-### Responding to change
+## Responding to change
 
 This is one of the most beautiful things on paper, because everyone knows that things can change overnight so a 12 months  project is just a thing that will have exactly 365 opportunities to change and this cannot be avoided.
 
 But what is your Team doing to be responding fast o changes?
 
-(Situations)
+**Situation #1.** You developed a beautiful code, full of patterns and well named variables for a feature that the customer now wants off the product. You actually agrees with it because that feature is almost never used by the users. The problem is that you didn't plan for it be remove so, right now, it is ultmost difficult because one of the patterns that you used here is used elsewhere and it is too much coupled. So you come up with difficult terms about how this could compromise the product and convince him that this feature must stay as it is.
+
+Altogether now! **You are not being Agile!**
 
 So, basically, we need to be flexible and build flexible software.
 That means that everyone in the team must never twist their nose on changes. They must embrace it.
-This also means to create modularized (so we can change only what is needed), unit tested (so we can be confident to change it) and beautiful code. Because everyone on the team will work on it during ltos of hours, so it is really important that the code is pleasant to work with.
+This also means to create modularized (so we can change only what is needed), unit tested (so we can be confident to change it) and beautiful code (so everyone actually wants to work on it).
 
+## What to do next?
 
+I believe that if we train our Agile behavior - working on our communication skills and how to suppress our egos, reminding to deliver real value to the end user at all times, focusing on building things that we are really proud of - we can lead software projects to success.
 
+The Agile Way is not so obvious like we would like and sometimes we will have trouble convincing people that this actually deliver more results than the PMBOK-like management, but it is our job to find ways of doing it.
+
+Happy Agile training.

@@ -108,10 +108,12 @@ So, basically, we need to be flexible and build flexible software.
 That means that everyone in the team must never twist their nose on changes. They must embrace it.
 This also means to create modularized (so we can change only what is needed), unit tested (so we can be confident to change it) and beautiful code (so everyone actually wants to work on it).
 
-## What to do next?
+## But where to find these values then?
 
-I believe that if we train our Agile behavior - working on our communication skills and how to suppress our egos, reminding to deliver real value to the end user at all times, focusing on building things that we are really proud of - we can lead software projects to success.
+I believe that we train our Agile behavior - working on our communication skills and how to suppress our egos, reminding to deliver real value to the end user at all times, focusing on building things that we are really proud of - we can lead agile software projects to success.
 
-The Agile Way is not so obvious like we would like and sometimes we will have trouble convincing people that this actually deliver more results than the PMBOK-like management, but it is our job to find ways of doing it.
+The Agile Way is not instinctive to us, adult humans, and sometimes we will end up moving ourselves towards the traditional ways and expecting some manager to solve the problems for us.
+
+The Agile Way is, also, not obvious like we would like it to be and sometimes we will have trouble convincing people that it actually delivers more results than the traditional management, but it is our job to find ways of showing its value.
 
 Happy Agile training.

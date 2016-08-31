@@ -7,7 +7,7 @@ In this article we will try to understand and reflect about some of our day-to-d
 
 ## Definitions, definitions...
 
-Before anything it is important to note that Agile Software Development includes several development methods that share a set of principles so there is no "right way" of being Agile.
+Before anything it is important to note that Agile Software Development includes several development methods that share a **set of principles**, so there is no "one way" of being Agile.
 
 So, we need to focus on this set of princiles stuff to understand what exactly means to be agile.
 
@@ -23,11 +23,11 @@ Lets look at the agile manifesto (yeah, again):
 > That is, while there is value in the items on the right, we value the items on the left more."
 > - © 2001, the Agile Manifesto authors. This declaration may be freely copied in any form, but only in its entirety through this notice.
 
-That's so cool right? We can now trash everything that we hate about project management: processes, documentation, contracts and plans.
+That's so cool right? We can now trash everything that we hate about project management: processes, documentation, contracts and plans and start doing what is really important.
 
 Yeah, we can look at it this way, and it is not entirelly wrong.
 
-But we have to remind us that we still have the left part of the list to be reaaaly good at, otherwise we would not really being Agile, we would be just not doing boring stuff.
+But we have to remind us that we still have the left part, the important one, of the list to be reaaaly good at, otherwise we would not be Agile, we would just not do boring stuff.
 
 So, let's look at them with a little more care.
 

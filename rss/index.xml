@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://plyom.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 18:47:10 GMT</lastBuildDate><atom:link href="https://plyom.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Agile methods and where (not) to find them]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://plyom.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 18:59:19 GMT</lastBuildDate><atom:link href="https://plyom.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Agile methods and where (not) to find them]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
@@ -13,7 +13,7 @@ More than that, are we actually acting accordingdly to the Agile principles?</p>
 <h2 id="_definitions_definitions">Definitions, definitions&#8230;&#8203;</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Before anything it is important to note that Agile Software Development includes several development methods that share a set of principles so there is no "right way" of being Agile.</p>
+<p>Before anything it is important to note that Agile Software Development includes several development methods that share a <strong>set of principles</strong>, so there is no "one way" of being Agile.</p>
 </div>
 <div class="paragraph">
 <p>So, we need to focus on this set of princiles stuff to understand what exactly means to be agile.</p>
@@ -49,13 +49,13 @@ More than that, are we actually acting accordingdly to the Agile principles?</p>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>That&#8217;s so cool right? We can now trash everything that we hate about project management: processes, documentation, contracts and plans.</p>
+<p>That&#8217;s so cool right? We can now trash everything that we hate about project management: processes, documentation, contracts and plans and start doing what is really important.</p>
 </div>
 <div class="paragraph">
 <p>Yeah, we can look at it this way, and it is not entirelly wrong.</p>
 </div>
 <div class="paragraph">
-<p>But we have to remind us that we still have the left part of the list to be reaaaly good at, otherwise we would not really being Agile, we would be just not doing boring stuff.</p>
+<p>But we have to remind us that we still have the left part, the important one, of the list to be reaaaly good at, otherwise we would not be Agile, we would just not do boring stuff.</p>
 </div>
 <div class="paragraph">
 <p>So, let&#8217;s look at them with a little more care.</p>

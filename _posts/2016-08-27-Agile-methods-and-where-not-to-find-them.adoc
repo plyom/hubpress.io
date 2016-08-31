@@ -35,7 +35,7 @@ So, let's look at them with a little more care.
 
 This means we have to communicate and interact with other **people**. Yeah, people.
 
-I think it is better to talk about what it is not being agile:
+I think it is better to talk about actions and situations:
 
 **Situation #1.** You look at your task in Trello, Jira or any other kanban tool like you use (because the **tool should not matter** remember?), code it, commit it and more the card to the next stage on the process and feel satisfied for the job well done. So smooth...
 
@@ -99,6 +99,8 @@ This is one of the most beautiful things on paper, because everyone knows that t
 But what is your Team doing to be responding fast o changes?
 
 **Situation #1.** You developed a beautiful code, full of patterns and well named variables for a feature that the customer now wants off the product. You actually agrees with it because that feature is almost never used by the users. The problem is that you didn't plan for it be remove so, right now, it is ultmost difficult because one of the patterns that you used here is used elsewhere and it is too much coupled. So you come up with difficult terms about how this could compromise the product and convince him that this feature must stay as it is.
+
+**Situation #2.** At some point during the project the team stopped to write unit tests because it was demanding too much effort and an agile team must deliver new features fast. The code escalated quickly and, now, it started to give goosebumps on the developers everytime a significant change is done. You understand that the sprints cannot ship broken things so you and the team started to accept less and less tasks on the sprint's backlog. Unit testing became so hard that the team never restarted to unit test and you began to think about trashing the whole source code and do it all over, but never spoke it out loud because it would mean you did a poor job.
 
 Altogether now! **You are not being Agile!**
 

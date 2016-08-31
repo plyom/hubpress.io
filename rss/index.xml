@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://plyom.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 18:35:20 GMT</lastBuildDate><atom:link href="https://plyom.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Agile methods and where (not) to find them]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://plyom.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 18:47:10 GMT</lastBuildDate><atom:link href="https://plyom.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Agile methods and where (not) to find them]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Being Agile is popular these times. But what "being Agile" really mean for us, as software people?
@@ -185,13 +185,16 @@ This also means to create modularized (so we can change only what is needed), un
 </div>
 </div>
 <div class="sect1">
-<h2 id="_what_to_do_next">What to do next?</h2>
+<h2 id="_but_where_to_find_these_values_then">But where to find these values then?</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>I believe that if we train our Agile behavior - working on our communication skills and how to suppress our egos, reminding to deliver real value to the end user at all times, focusing on building things that we are really proud of - we can lead software projects to success.</p>
+<p>I believe that we train our Agile behavior - working on our communication skills and how to suppress our egos, reminding to deliver real value to the end user at all times, focusing on building things that we are really proud of - we can lead agile software projects to success.</p>
 </div>
 <div class="paragraph">
-<p>The Agile Way is not so obvious like we would like and sometimes we will have trouble convincing people that this actually deliver more results than the PMBOK-like management, but it is our job to find ways of doing it.</p>
+<p>The Agile Way is not instinctive to us, adult humans, and sometimes we will end up moving ourselves towards the traditional ways and expecting some manager to solve the problems for us.</p>
+</div>
+<div class="paragraph">
+<p>The Agile Way is, also, not obvious like we would like it to be and sometimes we will have trouble convincing people that it actually delivers more results than the traditional management, but it is our job to find ways of showing its value.</p>
 </div>
 <div class="paragraph">
 <p>Happy Agile training.</p>

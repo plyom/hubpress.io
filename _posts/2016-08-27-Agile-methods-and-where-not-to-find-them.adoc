@@ -60,7 +60,7 @@ Does it still looks that easy to you?
 
 ## Working software
 
-This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs" but as a business. Do the software is really helping his users as it should?
+This basically means that the software can be deliverable and not only as a "not break stuff" and "no bugs", but as a business. Do the software is really helping his users as it should?
 
 Let's go to the situations:
 
